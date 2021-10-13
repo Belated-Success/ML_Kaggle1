@@ -1,2 +1,2 @@
 Day 1
-1.Titanic Survival Prediction😉
+Titanic Survival Prediction😉
