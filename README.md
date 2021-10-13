@@ -1,1 +1,2 @@
-# ML_Kaggle1
+Day 1
+1.Titanic Survival Prediction😉
