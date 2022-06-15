@@ -1,2 +1,4 @@
 Day 1
-Titanic Survival Prediction😉
+Titanic Survival Prediction
+Day 2
+Movie Recommendaion System
